@@ -1,0 +1,55 @@
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --middlbody: #f45a3b;
+  --bottombody: #222222;
+  --couvercle: #d8d8d8;
+  --wheel: #000000;
+  --edging_round_flag: #ff0000;
+  --flag_shtock: #999999;
+  --pods1_cap: #000000;
+  --pods1_label: #666666;
+  --pods2: #000000;
+}
+
+.App-link {
+  /* add line-break before */
+
+  color: #cafe;
+  /* translate to center of the screen */
+  overflow: hidden;
+  position: relative;
+  text-align: start;
+  z-index: 1;
+}
+.two_columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.first_column {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 30%;
+}
+
+.second_column {
+  -moz-columns: 50em;
+  -webkit-columns: 15em;
+  columns: 15em;
+  -moz-column-gap: 1em;
+  -webkit-column-gap: 1em;
+  column-gap: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 70%;
+  flex-wrap: wrap;
+  padding: 0 10px 10px 0px;
+}

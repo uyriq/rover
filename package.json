@@ -1,5 +1,6 @@
 {
   "name": "rover",
+  "homepage": "https://uyriq.github.io/rover",
   "version": "1.0.0",
   "private": true,
   "scripts": {

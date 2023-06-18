@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rover/static/css/main.64818345.css",
-    "main.js": "/rover/static/js/main.c4509bdc.js",
+    "main.css": "/rover/static/css/main.29083bc0.css",
+    "main.js": "/rover/static/js/main.33427af6.js",
     "static/js/496.5c73fbbf.chunk.js": "/rover/static/js/496.5c73fbbf.chunk.js",
     "index.html": "/rover/index.html",
-    "main.64818345.css.map": "/rover/static/css/main.64818345.css.map",
-    "main.c4509bdc.js.map": "/rover/static/js/main.c4509bdc.js.map",
+    "main.29083bc0.css.map": "/rover/static/css/main.29083bc0.css.map",
+    "main.33427af6.js.map": "/rover/static/js/main.33427af6.js.map",
     "496.5c73fbbf.chunk.js.map": "/rover/static/js/496.5c73fbbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64818345.css",
-    "static/js/main.c4509bdc.js"
+    "static/css/main.29083bc0.css",
+    "static/js/main.33427af6.js"
   ]
 }
